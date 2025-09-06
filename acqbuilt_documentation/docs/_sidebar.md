@@ -1,39 +1,27 @@
-- SimphonyWeb
+- ACQBuilt Estimating Interface
  - [Documentation](README.md)
 
-- simulation_input
- - [walls](walls/walls.md)
+- New Tabs
+    - [Walls New](walls/walls.md)
 
- - [configuration](configuration/config.md)
+    - [Floors New](floors/floors.md)
 
- - [resources](resources/resources.md)
+    - [Stair New](stairs/stairs.md)
 
- - [crews](crews/crews.md)
+    - [Telepost New](telepost/telepost.md)
 
- - [templates](templates/templates.md)
+    - [Roof Framing New](roofframing/roofframing.md)
 
- - [products](products/products.md)
+    - [Shingles New](shingles/shingles.md)
 
-- simulation_output
- - [model_output](models/models.md)
+    - [Exterior Finishing New](exteriorfinishing/exteriorfinishing.md)
 
- - [resource_utilization](resource_utilization/resource_utils.md)
- 
- - [crew_file_length](crew_file_length/crew_file_length.md)
+    - [Decks New](decks/decks.md)
 
- - [crew_waiting_times](crew_waiting_time/crew_waiting_time.md)
+    - [Verandas New](verandas/verandas.md)
 
-- General Dependencies
- - [general_depenedencies](dependencies/dependencies.md)
- 
-- Complete JSON Input Specification
- - [json_input_specifications](complete_code_blocks/code_blocks_input.md)
+    - [Exterior Trim New](exteriortrim/exteriortrim.md)
 
-- Complete JSON Output Specifications
- - [json_output_specifications](complete_code_blocks/code_blocks_output.md)
-
-- FAQ
- - [Frequently Asked Question](faq/faq.md)
 
 - How to Use Videos
     - [Demo](demo/demo.md)

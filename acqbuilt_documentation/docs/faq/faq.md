@@ -1,11 +1,11 @@
 # FAQ
 
-> What is the current_base url for our endpoint?
+> How do I add multiple items from EPICOR into BOQ?
 
->>The base url for the api is [base_url](https://simphonywebapp.azurewebsites.net/swagger/index.html)
+>>Key in the word (PartNum or Description) you are searching for and click the search button. This opens up matching items based off your search. Select the first cell of line items and click Update Group. Refer to the how-to-videos [base_url](https://simphonywebapp.azurewebsites.net/swagger/index.html)
 
-> What is the endpoint for running a simulation
->> The endpoint for simulation run is [endpoint](base_url/simulation/simulate)
+> Can I undo an action such as Delete Permanently
+>> No
 
-> Is this an actual web site.
->> This is a microservice
+> Can I import a BOQ without a matching column header
+>> No

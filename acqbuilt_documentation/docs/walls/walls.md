@@ -1,8 +1,8 @@
-# Walls New
+# Walls New TAB
 
 ## Introduction
 
-Walls New tab allows you to add a BOQ for a specific JOB from EPICOR. There are four major Actions available on the Walls tab
+Walls New tab allows you to add a BOQ for a specific JOB from EPICOR to be applied to the Wall. There are four major Actions available on the Walls tab
 
 - Manage SemaReader Actions
 - SemaReader Operations
